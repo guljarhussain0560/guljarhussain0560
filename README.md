@@ -69,11 +69,17 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=guljarhussain0560&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+# 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=guljarhussain0560&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guljarhussain0560&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180em" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guljarhussain0560&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guljarhussain0560&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guljarhussain0560&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="180em"/>
+</p>
 
 ---
 
