@@ -59,7 +59,7 @@
 
 📄 **AI Resume Builder** — Dynamic ATS-friendly resume generation platform  
 
-⚖️ **LexiCourt AI** — Virtual AI courtroom system for law students  
+⚖️ **LexiCourt AI** — Virtual AI courtroom system for law students (Under development)  
 
 🎼 **AI Music Replacer** — Intelligent music transformation & audio analysis  
 
