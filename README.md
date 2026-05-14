@@ -2,12 +2,12 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 B.Tech CSE Student & Backend Developer from India  
-🤖 Passionate about AI Systems, FastAPI, Machine Learning, and Scalable Backend Architecture  
-🎵 Building AI-powered Music & Audio Intelligence Applications  
-⚖️ Developing AI Courtroom & Resume Builder Platforms  
-🌱 Currently exploring Distributed Systems, AI Infrastructure, and Production-Grade APIs  
-💡 Love turning innovative ideas into real-world intelligent products  
+ B.Tech CSE Student & Backend Developer from India  
+ Passionate about AI Systems, FastAPI, Machine Learning, and Scalable Backend Architecture  
+ Building AI-powered Music & Audio Intelligence Applications  
+ Developing AI Courtroom & Resume Builder Platforms  
+ Currently exploring Distributed Systems, AI Infrastructure, and Production-Grade APIs  
+ Love turning innovative ideas into real-world intelligent products  
 
 ---
 
