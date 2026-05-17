@@ -91,13 +91,7 @@
 
 [![Guljar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guljarhussain0560&theme=tokyo-night)](https://github.com/guljarhussain0560)
 
----
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 # 👀 Profile Views
 
@@ -105,8 +99,3 @@
 
 ---
 
-<div align="center">
-
-### ⚡ "Building intelligent systems that solve real-world problems."
-
-</div>
