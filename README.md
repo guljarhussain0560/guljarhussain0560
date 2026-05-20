@@ -51,21 +51,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-# 🚀 Featured Projects
-
-🎵 **AI Lyrics Replacer** — AI-powered vocal replacement & lyrics synchronization  
-
-📄 **AI Resume Builder** — Dynamic ATS-friendly resume generation platform  
-
-⚖️ **LexiCourt AI** — Virtual AI courtroom system for law students (Under development)  
-
-🎼 **AI Music Replacer** — Intelligent music transformation & audio analysis  
-
-📊 **Audio Intelligence System** — BPM, genre, mood & vocal analysis using ML  
-
----
 
 # 📊 GitHub Stats
 
